@@ -28,9 +28,8 @@ detectability-limits-tree-covered-coffee-dominican-republic/
 │   └── 03_model_comparison_and_detectability_analysis.ipynb
 │
 └── data/
-├── notebooks/
-│   ├── Database_DR_Coffee_Forest.shp
-│   └── README.md
+    ├── Database_DR_Coffee_Forest.shp
+    └── README.md
 ```
 
 ---
