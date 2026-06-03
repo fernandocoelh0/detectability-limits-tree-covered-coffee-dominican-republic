@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments
+.env
+.venv/
+venv/
+
+# Credentials and private keys
+*.json
+*.key
+*.pem
+credentials*
+service-account*
+
+# Geospatial vector data with potentially sensitive locations
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.kml
+*.kmz
+*.geojson
+
+# Large raster data
+*.tif
+*.tiff
+*.vrt
+*.img
+
+# Derived tables and temporary outputs
+data/raw/
+data/private/
+outputs/temp/
+outputs/cache/
+
+# System files
+.DS_Store
+Thumbs.db
