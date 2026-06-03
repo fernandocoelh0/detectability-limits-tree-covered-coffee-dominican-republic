@@ -6,7 +6,7 @@ This repository contains the computational notebooks and supporting materials as
 
 The study evaluates the detectability limits of tree-covered coffee in the Dominican Republic using multitemporal Sentinel-1 SAR metrics, Sentinel-2 optical attributes, and Sentinel-2 optical texture features. The workflow supports the comparison of Random Forest scenarios designed to assess separability between shaded coffee and forest formations at Sentinel spatial resolution.
 
-> **Manuscript status:** under preparation / under review.  
+> **Manuscript status:** under review.  
 > The repository will be updated with the final citation and DOI after publication.
 
 ---
