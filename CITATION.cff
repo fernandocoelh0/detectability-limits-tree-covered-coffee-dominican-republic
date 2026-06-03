@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated manuscript and this repository."
+title: "Detectability limits of tree-covered coffee at Sentinel resolution: asymmetric gains from optical texture"
+authors:
+  - family-names: "Eugenio"
+    given-names: "Fernando Coelho"
+    affiliation: "Universidade Federal dos Vales do Jequitinhonha e Mucuri"
+repository-code: "https://github.com/fernandocoelh0/detectability-limits-tree-covered-coffee-dominican-republic"
+year: 2026
+license: MIT
