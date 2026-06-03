@@ -1,0 +1,29 @@
+# Core scientific stack
+numpy
+pandas
+scipy
+
+# Geospatial processing
+geopandas
+shapely
+rasterio
+pyproj
+fiona
+
+# Google Earth Engine and interactive mapping
+earthengine-api
+geemap
+
+# Machine learning and model evaluation
+scikit-learn
+
+# Image and texture analysis
+scikit-image
+
+# Plotting and visualisation
+matplotlib
+seaborn
+
+# Notebook support
+jupyter
+ipykernel
